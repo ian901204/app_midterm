@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:audioplayers/audioplayers.dart';
 
-import 'package:nkust1111111111ooo_midterm/screen1.dart';
-import 'package:nkust1111111111ooo_midterm/screen2.dart';
-import 'package:nkust1111111111ooo_midterm/screen3.dart';
-import 'package:nkust1111111111ooo_midterm/screen4.dart';
+import 'package:nkustc109151110_midterm/screen1.dart';
+import 'package:nkustc109151110_midterm/screen2.dart';
+import 'package:nkustc109151110_midterm/screen3.dart';
+import 'package:nkustc109151110_midterm/screen4.dart';
 
 final player=AudioPlayer();
 
@@ -30,7 +30,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: Text('Midterm'),),
+        appBar: AppBar(title: Text('c109151110沈育安_期中考'),),
         body: tabs[_currentindex],
         bottomNavigationBar: BottomNavigationBar(
           type: BottomNavigationBarType.fixed,

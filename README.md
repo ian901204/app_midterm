@@ -1,16 +1,5 @@
-# nkust1111111111ooo_midterm
+# nkustc109151110沈育安_midterm
 
-期中作業參考
+nkust 四資工三甲 c109151110 沈育安 APP程式設計 期中作業
+ 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
